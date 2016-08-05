@@ -1,4 +1,4 @@
-package example.com.addisplay;
+package example.com.addisplay.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -16,7 +16,9 @@ import android.widget.TextView;
 import java.util.List;
 
 import example.com.addisplay.bean.Ad;
+import example.com.addisplay.service.ImpressionTrackingHelper;
 import example.com.addisplay.ui.R;
+import example.com.addisplay.utils.AdsNetworkCallHelper;
 import example.com.addisplay.utils.ImageLoader;
 
 /**
@@ -78,19 +80,16 @@ public class DisplayAdsCustomAdapter extends ArrayAdapter<Ad> {
         holder.productDescription.setText(ad.getProductDescription());
         holder.productName.setText(ad.getProductName());
         holder.rating.setText(ad.getRating());
+        imageLoader.DisplayImage(ad.getAverageRatingImageURL() , holder.averageRatingImage);
+        imageLoader.DisplayImage(ad.getProductThumbnail() , holder.productThumbnail);
         holder.actionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(android.content.Intent.ACTION_VIEW);
-                i.setData(Uri.parse(ad.getClickProxyURL()));
-                context.startActivity(i);
+                ImpressionTrackingHelper impressionTrackingHelper = new ImpressionTrackingHelper(context ,ad.getImpressionTrackingURL(), ad.getClickProxyURL());
+                impressionTrackingHelper.submitTracking();
+
             }
         });
-
-        imageLoader.DisplayImage(ad.getAverageRatingImageURL() , holder.averageRatingImage);
-        imageLoader.DisplayImage(ad.getProductThumbnail() , holder.productThumbnail);
-        holder.averageRatingImage.setBackgroundResource(R.drawable.rating);
-
         return view;
     }
 

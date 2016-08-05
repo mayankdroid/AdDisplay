@@ -13,8 +13,14 @@ import example.com.addisplay.bean.Ads;
 
 
 public class AdsNetworkCallHelper {
+    private Context context ;
 
-    public Ads retrieveXmlFromAsset(Context context) {
+    public  AdsNetworkCallHelper(Context context){
+        this.context = context;
+    }
+
+    //retrieving the local xml in case of service failure
+    public Ads retrieveAdsFromAsset() {
         Ads ads = null;
         try {
 
@@ -29,7 +35,8 @@ public class AdsNetworkCallHelper {
         return ads;
     }
 
-    public Ads retrieveXmlContent(String urlStr) {
+    //retriving the xml from service
+    public Ads retrieveAdsFromServer(String urlStr) {
         Ads ads = null;
         try {
             URL url = new URL(urlStr);
@@ -46,5 +53,23 @@ public class AdsNetworkCallHelper {
             e.printStackTrace();
         }
         return ads;
+    }
+
+    //submit the impression to server
+    public int submitImpressionTracking(String urlStr) {
+       int responseCode = 0;
+        try {
+            URL url = new URL(urlStr);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setRequestMethod("GET");
+
+            connection.connect();
+            responseCode = connection.getResponseCode();
+            connection.disconnect();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return responseCode ;
     }
 }
