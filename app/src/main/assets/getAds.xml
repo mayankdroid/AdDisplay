@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ads xmlns="http://www.appia.com/AS/get/ads/2013-01">
+    <ad>
+        <appId>com.psafe.msuite</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-half-5.png
+        </averageRatingImageURL>
+        <bidRate>0.50</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>1</campaignDisplayOrder>
+        <campaignId>12974</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Tools</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=12974&amp;creativeId=390941&amp;packageName=com.psafe.msuite&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=1&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>390941</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=12974&amp;creativeId=390941&amp;campaignDisplayOrder=1&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.psafe.msuite&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 2.2</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Antivírus Acelerador &amp; Limpeza</productDescription>
+        <productId>4488</productId>
+        <productName>Antivírus Acelerador &amp; Limpeza (Android)</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/4488/c1f49df3-7d04-4520-a382-fc395cbafdcb.png
+        </productThumbnail>
+        <rating>4.5</rating>
+    </ad>
+    <ad>
+        <appId>com.machinezone.gow</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>3.50</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>2</campaignDisplayOrder>
+        <campaignId>5307</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Strategy</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=5307&amp;creativeId=229438&amp;packageName=com.machinezone.gow&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=2&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>229438</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=5307&amp;creativeId=229438&amp;campaignDisplayOrder=2&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.machinezone.gow&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 5.0</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Join the ULTIMATE battle for domination of the kingdom!
+        </productDescription>
+        <productId>3051</productId>
+        <productName>Game of War - Fire Age</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/3051/8ed03860-2099-496b-93cc-3d38cbd471ba.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <ad>
+        <appId>com.RocketGames.ClassicDeluxe</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-5-5.png
+        </averageRatingImageURL>
+        <bidRate>1.50</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>3</campaignDisplayOrder>
+        <campaignId>18679</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Casino</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=18679&amp;creativeId=418135&amp;packageName=com.RocketGames.ClassicDeluxe&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=3&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>418135</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=18679&amp;creativeId=418135&amp;campaignDisplayOrder=3&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.RocketGames.ClassicDeluxe&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 4.1</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>WIN THE BIGGEST JACKPOT SLOTS! PLAY Downtown Deluxe SLOTS TODAY
+        </productDescription>
+        <productId>12585</productId>
+        <productName>Deluxe Slots Free Slots</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/12585/f18e195304424c88865ad3192d58ec00.png
+        </productThumbnail>
+        <rating>5.0</rating>
+    </ad>
+    <ad>
+        <appId>com.progressusmedia.jobsplus</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>0.77</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>4</campaignDisplayOrder>
+        <campaignId>623</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Education</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=623&amp;creativeId=238812&amp;packageName=com.progressusmedia.jobsplus&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=4&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>238812</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=623&amp;creativeId=238812&amp;campaignDisplayOrder=4&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.progressusmedia.jobsplus&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 1.0</minOSVersion>
+        <numberOfRatings>&lt;1,000</numberOfRatings>
+        <productDescription>Access 1000s Of Local Jobs!</productDescription>
+        <productId>2225</productId>
+        <productName>Jobs+</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/2225/37081520f30a4e3da9098dc47630d28d.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <ad>
+        <appId>com.sharkparty.bingo</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>0.37</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>5</campaignDisplayOrder>
+        <campaignId>7315</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Casino</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=7315&amp;creativeId=216453&amp;packageName=com.sharkparty.bingo&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=5&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>216453</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=7315&amp;creativeId=216453&amp;campaignDisplayOrder=5&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.sharkparty.bingo&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 4.3</minOSVersion>
+        <numberOfRatings>1,000-10,000</numberOfRatings>
+        <productDescription>Play Bingo™ like never before!</productDescription>
+        <productId>4629</productId>
+        <productName>Bingo™ (Android)</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/4629/5dbeb4bf-9811-489a-b0bd-0a555d7e7852.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <ad>
+        <appId>es.socialpoint.MonsterLegends</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-half-5.png
+        </averageRatingImageURL>
+        <bidRate>0.37</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>6</campaignDisplayOrder>
+        <campaignId>18602</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Simulation</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=18602&amp;creativeId=417199&amp;packageName=es.socialpoint.MonsterLegends&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=6&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>417199</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=18602&amp;creativeId=417199&amp;campaignDisplayOrder=6&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=es.socialpoint.MonsterLegends&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 4.0</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Breed, raise and battle the ultimate monster fighting force and lead
+            them to victory in the arena!
+        </productDescription>
+        <productId>12542</productId>
+        <productName>Monster Legends</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/12542/5421cbe9ad97491db6b2ce7cb44e527c.png
+        </productThumbnail>
+        <rating>4.5</rating>
+    </ad>
+    <ad>
+        <appId>com.itonline.anastasiadate</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>1.50</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>7</campaignDisplayOrder>
+        <campaignId>13748</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Social Networking</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=13748&amp;creativeId=324516&amp;packageName=com.itonline.anastasiadate&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=7&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>324516</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=13748&amp;creativeId=324516&amp;campaignDisplayOrder=7&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.itonline.anastasiadate&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 2.3</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Meet charming, funny &amp; beautiful international women with the top
+            AnastasiaDate dating app
+        </productDescription>
+        <productId>8990</productId>
+        <productName>AnastasiaDate: Date &amp; Chat App</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/8990/f7637e664b8c436c9f449a2c8618f7f1.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <ad>
+        <appId>com.kabam.marvelbattle</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>1.00</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>8</campaignDisplayOrder>
+        <campaignId>8670</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Action</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=8670&amp;creativeId=238164&amp;packageName=com.kabam.marvelbattle&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=8&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>238164</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=8670&amp;creativeId=238164&amp;campaignDisplayOrder=8&amp;ts=1564784001c&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.kabam.marvelbattle&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 5.0</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Assemble a team of famous Heroes in MARVEL’s versus fighting game!
+        </productDescription>
+        <productId>5781</productId>
+        <productName>Marvel Contest of Champions</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/5781/fd30d717e8164606b8592b76a60714d9.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <ad>
+        <appId>com.longtech.lastwars.gp</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-half-5.png
+        </averageRatingImageURL>
+        <bidRate>1.50</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>9</campaignDisplayOrder>
+        <campaignId>13942</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Strategy</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=13942&amp;creativeId=340876&amp;packageName=com.longtech.lastwars.gp&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=9&amp;enc=true&amp;ts=1564784001c&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>340876</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=13942&amp;creativeId=340876&amp;campaignDisplayOrder=9&amp;ts=1564784001d&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.longtech.lastwars.gp&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 4.0</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Unite your allies or play solo, it’s up to you! Die or Die trying is
+            your choice!
+        </productDescription>
+        <productId>9699</productId>
+        <productName>Last Empire-War Z</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/9699/21b860204d6a4a348dc128757648ab1b.png
+        </productThumbnail>
+        <rating>4.5</rating>
+    </ad>
+    <ad>
+        <appId>com.tumblr</appId>
+        <averageRatingImageURL>http://cdn1.appia.com/cdn/adpub/appwallv1/rated-4-5.png
+        </averageRatingImageURL>
+        <bidRate>0.60</bidRate>
+        <callToAction>Install Now</callToAction>
+        <campaignDisplayOrder>10</campaignDisplayOrder>
+        <campaignId>18209</campaignId>
+        <campaignTypeId>2</campaignTypeId>
+        <categoryName>Social Networking</categoryName>
+        <clickProxyURL>http://clks.appia.com/v2/clickAd.jsp?siteId=4288&amp;deviceId=4230&amp;spotId=&amp;sessionId=testsession&amp;campaignId=18209&amp;creativeId=411718&amp;packageName=com.tumblr&amp;fulfillmentTypeId=1&amp;placementId=1&amp;campaignDisplayOrder=10&amp;enc=true&amp;ts=1564784001d&amp;algorithmId=-1&amp;partner=154</clickProxyURL>
+        <creativeId>411718</creativeId>
+        <homeScreen>false</homeScreen>
+        <impressionTrackingURL>https://imps.appia.com/v2/impressionAd.jsp?siteId=4288&amp;campaignId=18209&amp;creativeId=411718&amp;campaignDisplayOrder=10&amp;ts=1564784001d&amp;sessionId=testsession&amp;placementId=1&amp;packageName=com.tumblr&amp;enc=true&amp;eventGroupId=EVTGID1470078648337533148416491&amp;algorithmId=-1&amp;partner=154</impressionTrackingURL>
+        <isRandomPick>true</isRandomPick>
+        <minOSVersion>Android 4.0</minOSVersion>
+        <numberOfRatings>10,000+</numberOfRatings>
+        <productDescription>Discover and create the stuff you love.</productDescription>
+        <productId>12370</productId>
+        <productName>Tumblr</productName>
+        <productThumbnail>
+            https://prod-static-images.s3.amazonaws.com/shared/creatives/12370/c0a1c470f8a54b3493e1996d4d50358f.png
+        </productThumbnail>
+        <rating>4.0</rating>
+    </ad>
+    <responseTime>0.012 seconds</responseTime>
+    <serverId>/10.231.1.142:1199</serverId>
+    <totalCampaignsRequested>10</totalCampaignsRequested>
+    <version>v2</version>
+</ads>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    android:background="@android:color/white"
+    >
+
+    <ImageView
+        android:id="@+id/productThumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/app1"
+        />
+
+    <TextView
+        android:id="@+id/productNamevalue"
+        style="@style/Text.SubHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/productThumbnail"
+        android:layout_toRightOf="@id/productThumbnail"
+        android:layout_marginLeft="16dp"
+        android:text="productName" />
+
+    <TextView
+        android:id="@+id/categoryNamevalue"
+        style="@style/Text.Body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/productNamevalue"
+        android:layout_toRightOf="@id/productThumbnail"
+        android:layout_marginLeft="16dp"
+        android:textColor="@color/colorPrimary"
+        android:text="categoryName" />
+
+    <TextView
+        android:id="@+id/minOSVersionvalue"
+        style="@style/Text.CaptionSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/categoryNamevalue"
+        android:layout_toRightOf="@id/productThumbnail"
+        android:layout_marginLeft="16dp"
+        android:text="minOSVersionvalue" />
+
+    <TextView
+        android:id="@+id/productDescriptionvalue"
+        style="@style/Text.Body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/productThumbnail"
+        android:layout_marginTop="16dp"
+        android:text="productDescription" />
+
+
+    <TextView
+        android:id="@+id/ratingvalue"
+        style="@style/Text.Body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/productDescriptionvalue"
+        android:layout_marginTop="8dp"
+        android:text="4.5" />
+
+    <ImageView
+        android:id="@+id/averageRatingImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/ratingvalue"
+        android:layout_below="@id/productDescriptionvalue"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rating"
+        />
+
+    <TextView
+        android:id="@+id/numberOfRatingsvalue"
+        style="@style/Text.CaptionSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ratingvalue"
+        android:text="numberOfRatings" />
+
+    <Button
+        android:id="@+id/action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Install Now"
+        android:layout_below="@id/productDescriptionvalue"
+        android:layout_alignParentRight="true"
+        android:theme="@style/Button_violet"
+        />
+
+</RelativeLayout>
